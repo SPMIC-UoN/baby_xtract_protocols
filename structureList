@@ -23,8 +23,8 @@ fa_l 3
 fa_r 3
 fma 0.5
 fmi 0.5
-fx_l 50
-fx_r 50
+fx_l 10
+fx_r 10
 ilf_l 3
 ilf_r 3
 ifo_l 3
@@ -40,8 +40,8 @@ str_r 1
 # Katherine test2 symm
 slf1_l 50
 slf1_r 50
-slf2_l 100
-slf2_r 100
+slf2_l 50
+slf2_r 50
 slf3_l 50
 slf3_r 50
 
